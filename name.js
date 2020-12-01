@@ -1,5 +1,5 @@
 function getName(obj) {
-    return obj.name;
+    return { name };
 }
 
 module.exports = {
